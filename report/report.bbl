@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{pyamaz_github}
+MAN1986, ``pyamaze: A python module to create and work on customizable random mazes - github.'' \url{https://pypi.org/project/pyamaze/}, 2022.
+\newblock Accessed: 2024-03-01.
+
+\bibitem{numpy_intro}
+``Numpy: the fundamental package for scientific computing in python.'' \url{https://numpy.org/doc/stable/user/whatisnumpy.html}.
+\newblock Accessed: 2024-03-01.
+
+\bibitem{matplotlib_intro}
+M.~D. Team, ``Matplotlib: Visualization with python.'' \url{https://matplotlib.org/}, 2024.
+\newblock Accessed: 2024-03-01.
+
+\bibitem{AStarSearch}
+GeeksforGeeks, ``A* search algorithm.'' \url{https://www.geeksforgeeks.org/a-search-algorithm/}, 2021.
+
+\bibitem{m_and_e}
+ratchet freak, ``A* algorithm heuristic for maze solver - stack exchange.'' \url{https://stackoverflow.com/questions/4938377/a-algorithm-heuristic-for-maze-solver}, 2017.
+
+\end{thebibliography}
