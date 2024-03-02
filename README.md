@@ -33,7 +33,6 @@ There are 5 implementations in this assignment: BFS, DFS, A*, Value Iteration, a
 You can find the code in the `main.py` file. The code will display a _GUI_ where parameters can be changed such as:
 1. Maze Size
     - Predefined sizes are `5x5`, `10x10`,`20x20` , `25x25`, `50x50` and `50x100`.
-      - Perfect maze is a maze that has no loops and no isolated areas, which means that there is always **exactly one path** between any two cells in the maze.
     - Custom size can be set by entering the `row` and `column` value.
     - You can only set one maze size at a time. Custom maze or predefined maze.
 2. Goal Location
@@ -67,7 +66,7 @@ You can find the code in the `main.py` file. The code will display a _GUI_ where
    - The comparison of the path, running time(ms) and memory usage(MB) of the selected algorithms will be generated when the algorithms are selected.
    - The comparison of the visited path of the selected algorithms will be generated when the graph search algorithms are selected.
    
-You can find the video demonstration of the code [here](https://youtu.be/wuz-iA9G).
+You can find the video demonstration of the code [here(https://youtu.be/wuz-iA9G)](https://youtu.be/wuz-iA9GuFo).
 
 ## Default Values
 Maze: **Custom** `50x50` maze (Random Maze)  
